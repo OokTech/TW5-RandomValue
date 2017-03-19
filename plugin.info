@@ -2,7 +2,7 @@
 	"title": "$:/plugins/OokTech/RandomValue",
 	"description": "A random number generator for TW5",
 	"author": "OokTech",
-	"version": "0.1.3",
+	"version": "0.1.5",
 	"core-version": ">=5.0.8",
 	"source": "https://github.com/OokTech/TW5-RandomValue",
 	"plugin-type": "plugin"
